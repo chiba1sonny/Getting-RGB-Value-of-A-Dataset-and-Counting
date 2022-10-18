@@ -3,7 +3,7 @@ import os
 from PIL import Image
 import numpy as np
 
-base = '1'
+base = 'pascal'
 all_image = os.listdir(base)
 result = []
 for img in all_image:
