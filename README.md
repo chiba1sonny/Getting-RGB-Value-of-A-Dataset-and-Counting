@@ -1,4 +1,4 @@
-# Getting-RGB-Value-of-A-Dataset-and-Counting
+# Getting-RGB-Values-of-A-Dataset-and-Counting
 
 ## Counting 
 ![nisgel](https://user-images.githubusercontent.com/68838083/196453989-865dada6-dee8-49f5-bebd-b75e0f4baf4b.png)
