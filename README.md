@@ -1,4 +1,6 @@
-# Getting-RGB-VALUEs-from-A-Dataset-and-Counting
+<div align="center">
+
+# Getting RGB VALUEs from A Dataset and Counting
 
 ## Counting 
 ![nisgel](https://user-images.githubusercontent.com/68838083/196453989-865dada6-dee8-49f5-bebd-b75e0f4baf4b.png)
@@ -14,6 +16,6 @@ Result:
 ```
 [[0, 0, 0], [128, 0, 0], [128, 128, 0], [224, 224, 192]]
 ```
-
+</div>
 
  
